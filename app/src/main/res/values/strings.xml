@@ -2,4 +2,5 @@
     <string name="app_name">TestForGit</string>
     <string name="button">Button</string>
     <string name="btn_print_to_log">Print to log</string>
+    <string name="up">UP!</string>
 </resources>
